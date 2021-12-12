@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-05-decomposition/static/css/main.7a0b91f7.chunk.css",
+    "main.js": "/react-05-decomposition/static/js/main.cc7192ba.chunk.js",
+    "main.js.map": "/react-05-decomposition/static/js/main.cc7192ba.chunk.js.map",
+    "runtime-main.js": "/react-05-decomposition/static/js/runtime-main.891a8628.js",
+    "runtime-main.js.map": "/react-05-decomposition/static/js/runtime-main.891a8628.js.map",
+    "static/js/2.3e383c48.chunk.js": "/react-05-decomposition/static/js/2.3e383c48.chunk.js",
+    "static/js/2.3e383c48.chunk.js.map": "/react-05-decomposition/static/js/2.3e383c48.chunk.js.map",
+    "static/js/3.60093c8a.chunk.js": "/react-05-decomposition/static/js/3.60093c8a.chunk.js",
+    "static/js/3.60093c8a.chunk.js.map": "/react-05-decomposition/static/js/3.60093c8a.chunk.js.map",
+    "index.html": "/react-05-decomposition/index.html",
+    "static/css/main.7a0b91f7.chunk.css.map": "/react-05-decomposition/static/css/main.7a0b91f7.chunk.css.map",
+    "static/js/2.3e383c48.chunk.js.LICENSE.txt": "/react-05-decomposition/static/js/2.3e383c48.chunk.js.LICENSE.txt",
+    "static/media/banner.54ddae91.png": "/react-05-decomposition/static/media/banner.54ddae91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.891a8628.js",
+    "static/js/2.3e383c48.chunk.js",
+    "static/css/main.7a0b91f7.chunk.css",
+    "static/js/main.cc7192ba.chunk.js"
+  ]
+}
